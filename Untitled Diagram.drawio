@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-04T09:30:49.035Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="JR1AAWHtaij-H9rxWmWn" version="14.1.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-01-04T09:32:03.349Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="qTZDoiqHmkkEWSdFeRih" version="14.1.8" type="github" pages="2">
   <diagram name="Page-1" id="54c02804-9d69-ba3f-8aca-1021b27b8050">
     <mxGraphModel dx="2062" dy="1122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -62,6 +62,12 @@
         <mxCell id="sr8ndwjYwEoH3tyWyaKA-1" parent="sr8ndwjYwEoH3tyWyaKA-0" />
         <mxCell id="sr8ndwjYwEoH3tyWyaKA-2" value="CGI接入层" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;rounded=1;strokeColor=#6c8ebf;" vertex="1" parent="sr8ndwjYwEoH3tyWyaKA-1">
           <mxGeometry x="240" y="80" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1cF8yq4eA-Xv76nk4kAs-0" value="CGI接入层" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;rounded=1;strokeColor=#d6b656;" vertex="1" parent="sr8ndwjYwEoH3tyWyaKA-1">
+          <mxGeometry x="240" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="1cF8yq4eA-Xv76nk4kAs-1" value="CGI接入层" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;rounded=1;strokeColor=#82b366;" vertex="1" parent="sr8ndwjYwEoH3tyWyaKA-1">
+          <mxGeometry x="240" y="240" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

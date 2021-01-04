@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-04T04:30:47.224Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="3-XE-m2tIIluPmmFwYwp" version="14.1.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-01-04T09:30:49.035Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="JR1AAWHtaij-H9rxWmWn" version="14.1.8" type="github" pages="2">
   <diagram name="Page-1" id="54c02804-9d69-ba3f-8aca-1021b27b8050">
     <mxGraphModel dx="2062" dy="1122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -56,21 +56,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="cjZeZdOjmpxU4Ib3bEYY" name="Page-2">
-    <mxGraphModel dx="2062" dy="1122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1422" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="sr8ndwjYwEoH3tyWyaKA-0" />
         <mxCell id="sr8ndwjYwEoH3tyWyaKA-1" parent="sr8ndwjYwEoH3tyWyaKA-0" />
-        <mxCell id="sr8ndwjYwEoH3tyWyaKA-3" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="sr8ndwjYwEoH3tyWyaKA-1">
-          <mxGeometry x="70" y="170" width="670" height="400" as="geometry" />
-        </mxCell>
-        <mxCell id="sr8ndwjYwEoH3tyWyaKA-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D4E1F5;" vertex="1" parent="sr8ndwjYwEoH3tyWyaKA-1">
-          <mxGeometry x="130" y="170" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="sr8ndwjYwEoH3tyWyaKA-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D4E1F5;" vertex="1" parent="sr8ndwjYwEoH3tyWyaKA-1">
-          <mxGeometry x="330" y="170" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="sr8ndwjYwEoH3tyWyaKA-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D4E1F5;" vertex="1" parent="sr8ndwjYwEoH3tyWyaKA-1">
-          <mxGeometry x="550" y="170" width="120" height="60" as="geometry" />
+        <mxCell id="sr8ndwjYwEoH3tyWyaKA-2" value="CGI接入层" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;rounded=1;strokeColor=#6c8ebf;" vertex="1" parent="sr8ndwjYwEoH3tyWyaKA-1">
+          <mxGeometry x="240" y="80" width="320" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

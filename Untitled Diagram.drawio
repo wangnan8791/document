@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-14T01:38:41.377Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="teu4Z6hgoPbTRY7FUWcZ" version="14.1.8" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-01-14T01:45:29.326Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="rosXp9qh-g6CnMugVdt8" version="14.1.8" type="github" pages="4">
   <diagram name="Page-1" id="54c02804-9d69-ba3f-8aca-1021b27b8050">
     <mxGraphModel dx="2048" dy="1108" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -56,10 +56,40 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Z6pRHcv02TMifso5XgwZ" name="coaching自己">
-    <mxGraphModel dx="2048" dy="1108" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2239" dy="1933" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="yvwaqxqMlEnto4mfCt6T-0" />
         <mxCell id="yvwaqxqMlEnto4mfCt6T-1" parent="yvwaqxqMlEnto4mfCt6T-0" />
+        <mxCell id="nlQWi4gjoz_ijPSZ3pIA-0" value="我做的最多/最牛的项目" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="yvwaqxqMlEnto4mfCt6T-1">
+          <mxGeometry x="124" y="57" width="149" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="nlQWi4gjoz_ijPSZ3pIA-2" value="COS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="yvwaqxqMlEnto4mfCt6T-1">
+          <mxGeometry y="129" width="120" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="nlQWi4gjoz_ijPSZ3pIA-3" value="万象" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="yvwaqxqMlEnto4mfCt6T-1">
+          <mxGeometry x="273" y="129" width="120" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="nlQWi4gjoz_ijPSZ3pIA-4" value="统计计费/数据湖" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="yvwaqxqMlEnto4mfCt6T-1">
+          <mxGeometry x="-120" y="219" width="120" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="nlQWi4gjoz_ijPSZ3pIA-5" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="yvwaqxqMlEnto4mfCt6T-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="201" y="819.8620689655172" as="sourcePoint" />
+            <mxPoint x="201" y="-7" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nlQWi4gjoz_ijPSZ3pIA-6" value="涉黄/合规封禁" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="yvwaqxqMlEnto4mfCt6T-1">
+          <mxGeometry x="-120" y="347" width="120" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="nlQWi4gjoz_ijPSZ3pIA-7" value="运营系统/控制台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="yvwaqxqMlEnto4mfCt6T-1">
+          <mxGeometry x="-120" y="471" width="120" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="nlQWi4gjoz_ijPSZ3pIA-8" value="cgi/cos各种高级功能" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="yvwaqxqMlEnto4mfCt6T-1">
+          <mxGeometry x="-120" y="588" width="120" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="nlQWi4gjoz_ijPSZ3pIA-9" value="文档预览" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="yvwaqxqMlEnto4mfCt6T-1">
+          <mxGeometry x="201" y="219" width="120" height="44" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-01-14T01:50:01.099Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="7G4kLFlFDdhPAx0bD3D8" version="14.1.8" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-01-18T08:54:53.368Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="X0wmdnxLGCu-pJV_EJgn" version="14.1.8" type="github" pages="4">
   <diagram name="Page-1" id="54c02804-9d69-ba3f-8aca-1021b27b8050">
-    <mxGraphModel dx="2048" dy="1108" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="2048" dy="1052" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -56,7 +56,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Z6pRHcv02TMifso5XgwZ" name="coaching自己">
-    <mxGraphModel dx="2239" dy="1933" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2239" dy="1895" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="yvwaqxqMlEnto4mfCt6T-0" />
         <mxCell id="yvwaqxqMlEnto4mfCt6T-1" parent="yvwaqxqMlEnto4mfCt6T-0" />
@@ -96,11 +96,14 @@
         <mxCell id="ueAyey_N2Fq6TJqxVvPk-1" value="需求：&lt;br&gt;1、合规封禁&lt;br&gt;2、统计计费&lt;br&gt;&lt;br&gt;手段：&lt;br&gt;1、cosn + presto" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="yvwaqxqMlEnto4mfCt6T-1">
           <mxGeometry x="21" y="205" width="142" height="191" as="geometry" />
         </mxCell>
+        <mxCell id="ueAyey_N2Fq6TJqxVvPk-2" value="需求：&lt;br&gt;1、性能&lt;br&gt;2、成本&lt;br&gt;3、可扩展性&lt;br&gt;&lt;br&gt;手段：&lt;br&gt;1、缓存&lt;br&gt;2、docker&lt;br&gt;3、任务系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="yvwaqxqMlEnto4mfCt6T-1">
+          <mxGeometry x="343" y="205" width="142" height="191" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="cjZeZdOjmpxU4Ib3bEYY" name="整体架构图">
-    <mxGraphModel dx="2239" dy="1933" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2239" dy="1895" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="sr8ndwjYwEoH3tyWyaKA-0" />
         <mxCell id="sr8ndwjYwEoH3tyWyaKA-1" parent="sr8ndwjYwEoH3tyWyaKA-0" />
@@ -343,7 +346,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="XuwrHGKEb-FSshHDWmSH" name="同步预览架构">
-    <mxGraphModel dx="2048" dy="1108" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2048" dy="1052" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="5XB-zujnhuzHfbpL0Umh-0" />
         <mxCell id="5XB-zujnhuzHfbpL0Umh-1" parent="5XB-zujnhuzHfbpL0Umh-0" />

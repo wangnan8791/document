@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-07T08:35:02.524Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="0uh_kECR8o9E-LoCNH6o" version="14.2.5" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-02-09T09:21:12.638Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="63KmsyXJtMuZt8RHusK7" version="14.2.5" type="github" pages="5">
   <diagram name="Page-1" id="54c02804-9d69-ba3f-8aca-1021b27b8050">
     <mxGraphModel dx="2048" dy="1108" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -652,7 +652,7 @@
         <mxCell id="VtDRNpCTtqmiHXRcfGFI-6" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;客户业务&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="hoVFeAc2EoDn5N3kzw5v-1">
           <mxGeometry x="1043" y="180.5" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VtDRNpCTtqmiHXRcfGFI-7" value="任务管理" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;rounded=1;strokeColor=#82b366;" vertex="1" parent="hoVFeAc2EoDn5N3kzw5v-1">
+        <mxCell id="VtDRNpCTtqmiHXRcfGFI-7" value="任务接入模块" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;rounded=1;strokeColor=#82b366;" vertex="1" parent="hoVFeAc2EoDn5N3kzw5v-1">
           <mxGeometry x="945" y="336" width="120" height="33" as="geometry" />
         </mxCell>
         <mxCell id="VtDRNpCTtqmiHXRcfGFI-8" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="hoVFeAc2EoDn5N3kzw5v-1" source="VtDRNpCTtqmiHXRcfGFI-7" target="VtDRNpCTtqmiHXRcfGFI-13">
@@ -691,7 +691,7 @@
         <mxCell id="VtDRNpCTtqmiHXRcfGFI-16" value="业务&lt;br&gt;m&lt;br&gt;队列" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;rounded=1;strokeColor=#82b366;" vertex="1" parent="hoVFeAc2EoDn5N3kzw5v-1">
           <mxGeometry x="1041" y="383" width="24" height="74" as="geometry" />
         </mxCell>
-        <mxCell id="VtDRNpCTtqmiHXRcfGFI-17" value="异步任务处理模块" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;rounded=1;strokeColor=#82b366;" vertex="1" parent="hoVFeAc2EoDn5N3kzw5v-1">
+        <mxCell id="VtDRNpCTtqmiHXRcfGFI-17" value="任务消费模块" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;rounded=1;strokeColor=#82b366;" vertex="1" parent="hoVFeAc2EoDn5N3kzw5v-1">
           <mxGeometry x="945" y="573" width="120" height="33" as="geometry" />
         </mxCell>
         <mxCell id="VtDRNpCTtqmiHXRcfGFI-18" value="文档服务&lt;br&gt;接入模块" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;rounded=1;strokeColor=#b85450;" vertex="1" parent="hoVFeAc2EoDn5N3kzw5v-1">

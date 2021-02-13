@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-13T10:37:22.210Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="CrNl3za60ZYDduT94bUV" version="14.2.5" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-02-13T10:37:47.445Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="sFHEsgin55bnLtoPICsL" version="14.2.5" type="github" pages="5">
   <diagram name="Page-1" id="54c02804-9d69-ba3f-8aca-1021b27b8050">
     <mxGraphModel dx="2048" dy="1108" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -817,19 +817,19 @@
             <mxPoint x="1352.0037037037036" y="496" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VtDRNpCTtqmiHXRcfGFI-14" value="业务&lt;br&gt;a&lt;br&gt;队列" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;rounded=1;strokeColor=#82b366;" vertex="1" parent="hoVFeAc2EoDn5N3kzw5v-1">
+        <mxCell id="VtDRNpCTtqmiHXRcfGFI-14" value="业务&lt;br&gt;a&lt;br&gt;队列" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;rounded=1;strokeColor=#d6b656;" vertex="1" parent="hoVFeAc2EoDn5N3kzw5v-1">
           <mxGeometry x="1156" y="417" width="24" height="74" as="geometry" />
         </mxCell>
-        <mxCell id="VtDRNpCTtqmiHXRcfGFI-15" value="业务&lt;br&gt;b&lt;br&gt;队列" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;rounded=1;strokeColor=#82b366;" vertex="1" parent="hoVFeAc2EoDn5N3kzw5v-1">
+        <mxCell id="VtDRNpCTtqmiHXRcfGFI-15" value="业务&lt;br&gt;b&lt;br&gt;队列" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;rounded=1;strokeColor=#d6b656;" vertex="1" parent="hoVFeAc2EoDn5N3kzw5v-1">
           <mxGeometry x="1192" y="417" width="24" height="74" as="geometry" />
         </mxCell>
-        <mxCell id="VtDRNpCTtqmiHXRcfGFI-16" value="业务&lt;br&gt;m&lt;br&gt;队列" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;rounded=1;strokeColor=#82b366;" vertex="1" parent="hoVFeAc2EoDn5N3kzw5v-1">
+        <mxCell id="VtDRNpCTtqmiHXRcfGFI-16" value="业务&lt;br&gt;m&lt;br&gt;队列" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;rounded=1;strokeColor=#d6b656;" vertex="1" parent="hoVFeAc2EoDn5N3kzw5v-1">
           <mxGeometry x="1246" y="417" width="24" height="74" as="geometry" />
         </mxCell>
         <mxCell id="VtDRNpCTtqmiHXRcfGFI-23" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;&lt;font style=&quot;font-size: 24px&quot;&gt;...&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="hoVFeAc2EoDn5N3kzw5v-1">
           <mxGeometry x="1219" y="429" width="20" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="xUAdYJG4eeCOMkfQeSp6-1" value="任务db" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;labelBackgroundColor=none;fontColor=#000000;align=center;" vertex="1" parent="hoVFeAc2EoDn5N3kzw5v-1">
+        <mxCell id="xUAdYJG4eeCOMkfQeSp6-1" value="任务db" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;labelBackgroundColor=none;align=center;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="hoVFeAc2EoDn5N3kzw5v-1">
           <mxGeometry x="1018" y="417" width="60" height="66.5" as="geometry" />
         </mxCell>
       </root>

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-14T09:47:29.368Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="PpSk3WYkcTcb9erlQ6Bs" version="14.3.1" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-02-15T01:55:41.574Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="C0ucyQbItHiK-qSSulMv" version="14.3.1" type="github" pages="6">
   <diagram name="Page-1" id="54c02804-9d69-ba3f-8aca-1021b27b8050">
     <mxGraphModel dx="2048" dy="1108" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -1197,6 +1197,14 @@
         <mxCell id="pK6IMhNHgLD8yMIZLbAR-5" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 12px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;COS存储&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="hoVFeAc2EoDn5N3kzw5v-1">
           <mxGeometry x="1823" y="831" width="60" height="30" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="BNbwm8xw8TcLzv67ZxyF" name="类图抽象">
+    <mxGraphModel dx="2048" dy="1108" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="y0Y4W0NQ2zUTEcWt6Pgp-0" />
+        <mxCell id="y0Y4W0NQ2zUTEcWt6Pgp-1" parent="y0Y4W0NQ2zUTEcWt6Pgp-0" />
       </root>
     </mxGraphModel>
   </diagram>

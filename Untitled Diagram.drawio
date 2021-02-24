@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-24T11:04:39.060Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="CbFJBf1VFMgsGxlUynN3" version="14.4.2" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2021-02-24T11:06:05.806Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="HkWjIC0ma-gaOxQIqu3F" version="14.4.2" type="github" pages="7">
   <diagram name="Page-1" id="54c02804-9d69-ba3f-8aca-1021b27b8050">
     <mxGraphModel dx="2048" dy="1108" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -574,19 +574,16 @@
             <mxPoint x="952.9200000000001" y="261.00000000000045" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Mk3uPIFv5dmIEv4ejSoF-2" value="&lt;div style=&quot;text-align: center&quot;&gt;&lt;font face=&quot;helvetica&quot;&gt;存储api&lt;/font&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;strokeColor=#000000;rounded=1;" vertex="1" parent="sr8ndwjYwEoH3tyWyaKA-1">
-          <mxGeometry x="942" y="294.5" width="47" height="28" as="geometry" />
-        </mxCell>
         <mxCell id="Mk3uPIFv5dmIEv4ejSoF-3" value="&lt;div style=&quot;text-align: center&quot;&gt;&lt;font face=&quot;helvetica&quot;&gt;视频、大文档等耗时处理任务&lt;/font&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="sr8ndwjYwEoH3tyWyaKA-1">
-          <mxGeometry x="1252" y="211" width="91" height="40" as="geometry" />
+          <mxGeometry x="1266" y="214.5" width="91" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Mk3uPIFv5dmIEv4ejSoF-4" value="同步服务配置" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;rounded=1;strokeColor=#82b366;" vertex="1" parent="sr8ndwjYwEoH3tyWyaKA-1">
           <mxGeometry x="723" y="324" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Mk3uPIFv5dmIEv4ejSoF-5" value="" style="endArrow=classic;html=1;" edge="1" parent="sr8ndwjYwEoH3tyWyaKA-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1247" y="183" as="sourcePoint" />
-            <mxPoint x="1247" y="260" as="targetPoint" />
+            <mxPoint x="1261" y="186.5" as="sourcePoint" />
+            <mxPoint x="1261" y="263.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Mk3uPIFv5dmIEv4ejSoF-6" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.storage;" vertex="1" parent="sr8ndwjYwEoH3tyWyaKA-1">
@@ -642,12 +639,6 @@
             <mxPoint x="1264.08" y="423" as="sourcePoint" />
             <mxPoint x="1264.08" y="454" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="Mk3uPIFv5dmIEv4ejSoF-35" value="&lt;font face=&quot;helvetica&quot; style=&quot;color: rgb(0 , 0 , 0) ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; text-align: center&quot;&gt;同步&lt;/font&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; text-align: center ; font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;api&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;rounded=1;" vertex="1" parent="sr8ndwjYwEoH3tyWyaKA-1">
-          <mxGeometry x="1089" y="294.5" width="48" height="28" as="geometry" />
-        </mxCell>
-        <mxCell id="Mk3uPIFv5dmIEv4ejSoF-36" value="&lt;font face=&quot;helvetica&quot; style=&quot;color: rgb(0 , 0 , 0) ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; text-align: center&quot;&gt;异步&lt;/font&gt;&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-size: 12px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; text-align: center ; font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;api&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;labelBackgroundColor=none;rounded=1;strokeColor=#000000;" vertex="1" parent="sr8ndwjYwEoH3tyWyaKA-1">
-          <mxGeometry x="1237" y="295.5" width="51" height="28" as="geometry" />
         </mxCell>
         <mxCell id="Mk3uPIFv5dmIEv4ejSoF-37" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 20px; font-style: normal; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; display: inline; float: none;&quot;&gt;一套兼容aws api&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontColor=none;labelBackgroundColor=none;fontStyle=0" vertex="1" parent="sr8ndwjYwEoH3tyWyaKA-1">
           <mxGeometry x="1028.9958620689656" y="257.0010344827586" width="168" height="31" as="geometry" />

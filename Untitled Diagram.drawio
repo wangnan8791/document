@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-25T10:38:01.535Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="COaW6gBY3vRhRsOgcD6X" version="14.4.2" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2021-02-25T10:38:59.794Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36" etag="Vp73ILCaIwMNfl16nmPh" version="14.4.2" type="github" pages="7">
   <diagram name="Page-1" id="54c02804-9d69-ba3f-8aca-1021b27b8050">
     <mxGraphModel dx="2048" dy="1108" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -1382,7 +1382,7 @@
         <mxCell id="_3sxghg-RHX1B04gAk4T-223" value="&lt;div&gt;&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;font face=&quot;helvetica&quot;&gt;任务db，选型tdsql&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;font face=&quot;helvetica&quot;&gt;单分片10万+，最大64分片&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=16;fontColor=#FF3333;align=left;" vertex="1" parent="sr8ndwjYwEoH3tyWyaKA-1">
           <mxGeometry x="2154" y="-764" width="222" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="_3sxghg-RHX1B04gAk4T-224" value="&lt;div&gt;&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;font face=&quot;helvetica&quot;&gt;redis，集群版本&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;font face=&quot;helvetica&quot;&gt;单分片10万+，最大128分片&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=16;fontColor=#FF3333;align=left;" vertex="1" parent="sr8ndwjYwEoH3tyWyaKA-1">
+        <mxCell id="_3sxghg-RHX1B04gAk4T-224" value="&lt;div&gt;&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;font face=&quot;helvetica&quot;&gt;队列，集群版本redis&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;font face=&quot;helvetica&quot;&gt;单分片10万+，最大128分片&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=16;fontColor=#FF3333;align=left;" vertex="1" parent="sr8ndwjYwEoH3tyWyaKA-1">
           <mxGeometry x="2150" y="-658.75" width="240" height="52" as="geometry" />
         </mxCell>
         <mxCell id="_3sxghg-RHX1B04gAk4T-225" value="&lt;div&gt;&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;font face=&quot;helvetica&quot;&gt;处理模块，docker部署&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px&quot;&gt;&lt;font face=&quot;helvetica&quot;&gt;单集群5千node，15万 pod&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=16;fontColor=#FF3333;align=left;" vertex="1" parent="sr8ndwjYwEoH3tyWyaKA-1">

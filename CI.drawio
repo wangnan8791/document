@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-26T03:36:02.804Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="pUJRoiw-N07SgBJNIc3Q" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-26T03:37:26.351Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="tKNb14QJhCAZmJX8pmq4" version="14.4.3" type="github">
   <diagram id="0i_a363HOQ5otxLn6usN" name="彩视攻坚">
     <mxGraphModel dx="2048" dy="1108" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -106,7 +106,7 @@
             <mxPoint x="220.99999999999994" y="646.02" as="sourcePoint" />
             <mxPoint x="694.96" y="643" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="469.96" y="588" />
+              <mxPoint x="429" y="524" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -115,6 +115,18 @@
             <mxPoint x="461" y="415" as="sourcePoint" />
             <mxPoint x="630" y="272" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="P-CCTiPUnd-aN9DFWdZh-31" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 20px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;1&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="414" y="104" width="60" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="P-CCTiPUnd-aN9DFWdZh-32" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 20px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;2&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="674" y="164" width="60" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="P-CCTiPUnd-aN9DFWdZh-33" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 20px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;3&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="477" y="529" width="60" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="P-CCTiPUnd-aN9DFWdZh-34" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 20px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;10%&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="503" y="368" width="60" height="38" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

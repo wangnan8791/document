@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-26T12:01:39.143Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="hVO8WPt05CfipYp1sjVq" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-29T08:12:17.520Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="iXPPJ3XUBADusnt_Hd-C" version="14.4.3" type="github">
   <diagram id="0i_a363HOQ5otxLn6usN" name="彩视攻坚">
-    <mxGraphModel dx="2048" dy="1052" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2409" dy="1304" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -130,9 +130,6 @@
         <mxCell id="P-CCTiPUnd-aN9DFWdZh-42" value="腾讯云存储COS" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="334" y="817" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="P-CCTiPUnd-aN9DFWdZh-43" value="七牛存储" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="563" y="817" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="P-CCTiPUnd-aN9DFWdZh-44" value="腾讯审核&lt;br&gt;天御" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="334" y="990" width="120" height="60" as="geometry" />
         </mxCell>
@@ -140,12 +137,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="1203" as="sourcePoint" />
             <mxPoint x="271" y="954" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="P-CCTiPUnd-aN9DFWdZh-47" value="" style="endArrow=classic;html=1;fontSize=20;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="P-CCTiPUnd-aN9DFWdZh-43" target="P-CCTiPUnd-aN9DFWdZh-42" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="464" y="1030" as="sourcePoint" />
-            <mxPoint x="633" y="887" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="P-CCTiPUnd-aN9DFWdZh-48" value="" style="endArrow=classic;html=1;fontSize=20;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="P-CCTiPUnd-aN9DFWdZh-35" target="P-CCTiPUnd-aN9DFWdZh-42" edge="1">

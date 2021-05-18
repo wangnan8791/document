@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-29T08:12:17.520Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="iXPPJ3XUBADusnt_Hd-C" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-18T11:33:04.903Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="R6UlpBCLdLPi8EYLuG6m" version="14.6.12" type="github">
   <diagram id="0i_a363HOQ5otxLn6usN" name="彩视攻坚">
-    <mxGraphModel dx="2409" dy="1304" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2048" dy="1108" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -181,6 +181,39 @@
         </mxCell>
         <mxCell id="P-CCTiPUnd-aN9DFWdZh-71" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 20px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;4 文件处置&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="77" y="498" width="121" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="L24JwbHKwp-Smsv8oQfB-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="L24JwbHKwp-Smsv8oQfB-1" target="L24JwbHKwp-Smsv8oQfB-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L24JwbHKwp-Smsv8oQfB-1" value="桶A&lt;br&gt;视频目录1&lt;br&gt;视频目录2&lt;br&gt;。。。" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="43" y="1344" width="120" height="107" as="geometry" />
+        </mxCell>
+        <mxCell id="L24JwbHKwp-Smsv8oQfB-2" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 20px; font-style: normal; font-weight: 400; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;腾讯云存储COS&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="18" y="1288" width="163" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="L24JwbHKwp-Smsv8oQfB-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="L24JwbHKwp-Smsv8oQfB-3" target="L24JwbHKwp-Smsv8oQfB-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L24JwbHKwp-Smsv8oQfB-3" value="截帧程序" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="249" y="1377" width="120" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="L24JwbHKwp-Smsv8oQfB-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="L24JwbHKwp-Smsv8oQfB-4" target="L24JwbHKwp-Smsv8oQfB-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L24JwbHKwp-Smsv8oQfB-4" value="桶A&lt;br&gt;/snapshot/20210520/视频路径_第几帧.jpg&lt;br&gt;/snapshot/20210521/视频路径_第几帧.jpg&lt;br&gt;。。。" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="454" y="1344" width="425" height="107" as="geometry" />
+        </mxCell>
+        <mxCell id="L24JwbHKwp-Smsv8oQfB-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="L24JwbHKwp-Smsv8oQfB-5" target="L24JwbHKwp-Smsv8oQfB-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L24JwbHKwp-Smsv8oQfB-5" value="审核程序" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="606.5" y="1502" width="120" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="L24JwbHKwp-Smsv8oQfB-9" value="审核结果存储" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="605" y="1594" width="124" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="L24JwbHKwp-Smsv8oQfB-11" value="&lt;div&gt;&lt;font face=&quot;helvetica&quot;&gt;&lt;span style=&quot;font-size: 20px&quot;&gt;存量视频审核截帧+审核方案：&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;helvetica&quot;&gt;&lt;span style=&quot;font-size: 20px&quot;&gt;1、约定好视频源路径，目的截图保存路径，截帧间隔（3秒）&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;helvetica&quot;&gt;&lt;span style=&quot;font-size: 20px&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; 腾讯云负责截帧脚本提供和部署运行。路径中带有日期，是为了让审核任务流水线式地运行，不必等全部截帧完成再执行。&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;helvetica&quot;&gt;&lt;span style=&quot;font-size: 20px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;helvetica&quot;&gt;&lt;span style=&quot;font-size: 20px&quot;&gt;2、截帧任务开始后，按照定好的审核策略，同步开始审核任务。审核qps 2000，28亿截图约20天跑完。&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;helvetica&quot;&gt;&lt;span style=&quot;font-size: 20px&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;helvetica&quot;&gt;&lt;span style=&quot;font-size: 20px&quot;&gt;3、我们导出审核结果，或者 通过回调方式给客户。&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="56" y="1633" width="720" height="369" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

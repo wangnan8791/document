@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-03T04:29:29.069Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="j9kGwI120N053DMUp_5O" version="14.6.13" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-06-03T04:31:44.543Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="H5eZ4LcZMo1GeqxRWIHG" version="14.6.13" type="github" pages="2">
   <diagram id="0i_a363HOQ5otxLn6usN" name="彩视">
     <mxGraphModel dx="2048" dy="1108" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -328,8 +328,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="HuAMnFgn9ztyb8hnKMQ7-12" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 20px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;3 下载文件并审核&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="MFgfLRZCeNVr7PoOQNtx-1">
-          <mxGeometry x="313" y="832" width="175" height="38" as="geometry" />
+        <mxCell id="HuAMnFgn9ztyb8hnKMQ7-12" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 20px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;2 内网下载文件并审核&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="MFgfLRZCeNVr7PoOQNtx-1">
+          <mxGeometry x="596" y="829" width="203" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="nTM5vsDFicS11K8UlBQu-0" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 20px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;1、按需调用api触发审核2、存量审核&lt;br&gt;3、增量审核&lt;br&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="MFgfLRZCeNVr7PoOQNtx-1">
+          <mxGeometry x="269" y="968" width="223" height="95" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-21T09:51:11.214Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="aSWfL-DCs3m3fAkUlAjK" version="14.7.10" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-06-23T03:40:12.297Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="eQNOwLyd4IG03mANs5u3" version="14.7.10" type="github" pages="5">
   <diagram id="dbYi_EsOO7d35I-B2Z4p" name="通用审核流程图">
     <mxGraphModel dx="2048" dy="1108" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -672,7 +672,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="YKc7xLH0ZD2Wb9kipWP-" name="trtc+cos审核">
-    <mxGraphModel dx="2875" dy="1108" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2048" dy="2277" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="21coxDRDgsxf23kZ1eBv-0" />
         <mxCell id="21coxDRDgsxf23kZ1eBv-1" parent="21coxDRDgsxf23kZ1eBv-0" />
@@ -683,70 +683,73 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wU61ol3yCMf8DzkOAZ5e-1" value="&lt;span&gt;TRTC云服务&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="21coxDRDgsxf23kZ1eBv-1">
-          <mxGeometry x="326" y="29" width="120" height="60" as="geometry" />
+          <mxGeometry x="318" y="-370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wU61ol3yCMf8DzkOAZ5e-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="21coxDRDgsxf23kZ1eBv-1" source="wU61ol3yCMf8DzkOAZ5e-2" target="wU61ol3yCMf8DzkOAZ5e-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wU61ol3yCMf8DzkOAZ5e-2" value="&lt;span&gt;COS&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="21coxDRDgsxf23kZ1eBv-1">
-          <mxGeometry x="601" y="169" width="120" height="60" as="geometry" />
+          <mxGeometry x="593" y="-230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wU61ol3yCMf8DzkOAZ5e-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="21coxDRDgsxf23kZ1eBv-1" source="wU61ol3yCMf8DzkOAZ5e-4" target="wU61ol3yCMf8DzkOAZ5e-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wU61ol3yCMf8DzkOAZ5e-4" value="天御" style="whiteSpace=wrap;html=1;rounded=1;fontSize=18;" vertex="1" parent="21coxDRDgsxf23kZ1eBv-1">
-          <mxGeometry x="326" y="169" width="120" height="60" as="geometry" />
+          <mxGeometry x="318" y="-230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wU61ol3yCMf8DzkOAZ5e-6" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 18px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;1、上传音频到COS&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="21coxDRDgsxf23kZ1eBv-1">
-          <mxGeometry x="488" y="16" width="172" height="36" as="geometry" />
+          <mxGeometry x="480" y="-383" width="172" height="36" as="geometry" />
         </mxCell>
         <mxCell id="wU61ol3yCMf8DzkOAZ5e-7" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 18px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;2、调用天御音频审核api&lt;br&gt;传入groupid、userid等TRTC的参数&lt;br&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="21coxDRDgsxf23kZ1eBv-1">
-          <mxGeometry x="76" y="106" width="295" height="71" as="geometry" />
+          <mxGeometry x="68" y="-293" width="295" height="71" as="geometry" />
         </mxCell>
         <mxCell id="wU61ol3yCMf8DzkOAZ5e-10" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 18px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;3、从COS下载音频文件&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="21coxDRDgsxf23kZ1eBv-1">
-          <mxGeometry x="443" y="133" width="201" height="36" as="geometry" />
+          <mxGeometry x="435" y="-266" width="201" height="36" as="geometry" />
         </mxCell>
         <mxCell id="wU61ol3yCMf8DzkOAZ5e-11" value="客户服务" style="whiteSpace=wrap;html=1;rounded=1;fontSize=18;" vertex="1" parent="21coxDRDgsxf23kZ1eBv-1">
-          <mxGeometry x="326" y="309" width="120" height="60" as="geometry" />
+          <mxGeometry x="318" y="-90" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wU61ol3yCMf8DzkOAZ5e-13" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 18px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;4、审核结果回调客户&lt;br&gt;带上groupid、userid等TRTC的参数&lt;br&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="21coxDRDgsxf23kZ1eBv-1">
-          <mxGeometry x="404" y="256" width="337" height="36" as="geometry" />
+          <mxGeometry x="396" y="-143" width="337" height="36" as="geometry" />
         </mxCell>
         <mxCell id="wU61ol3yCMf8DzkOAZ5e-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" source="wU61ol3yCMf8DzkOAZ5e-16" target="wU61ol3yCMf8DzkOAZ5e-18" parent="21coxDRDgsxf23kZ1eBv-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wU61ol3yCMf8DzkOAZ5e-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" source="wU61ol3yCMf8DzkOAZ5e-16" target="wU61ol3yCMf8DzkOAZ5e-20" parent="21coxDRDgsxf23kZ1eBv-1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="wU61ol3yCMf8DzkOAZ5e-16" value="&lt;span&gt;TRTC云服务&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="21coxDRDgsxf23kZ1eBv-1">
-          <mxGeometry x="326" y="496" width="120" height="60" as="geometry" />
+          <mxGeometry x="318" y="97" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wU61ol3yCMf8DzkOAZ5e-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" source="wU61ol3yCMf8DzkOAZ5e-18" target="wU61ol3yCMf8DzkOAZ5e-20" parent="21coxDRDgsxf23kZ1eBv-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="wU61ol3yCMf8DzkOAZ5e-18" value="&lt;span&gt;COS&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="21coxDRDgsxf23kZ1eBv-1">
-          <mxGeometry x="601" y="636" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="wU61ol3yCMf8DzkOAZ5e-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" source="wU61ol3yCMf8DzkOAZ5e-20" target="wU61ol3yCMf8DzkOAZ5e-23" parent="21coxDRDgsxf23kZ1eBv-1">
+        <mxCell id="F41BLx68-mJaw4yvlTQs-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="21coxDRDgsxf23kZ1eBv-1" source="wU61ol3yCMf8DzkOAZ5e-18" target="wU61ol3yCMf8DzkOAZ5e-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="wU61ol3yCMf8DzkOAZ5e-18" value="&lt;span&gt;COS&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="21coxDRDgsxf23kZ1eBv-1">
+          <mxGeometry x="593" y="237" width="120" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="wU61ol3yCMf8DzkOAZ5e-20" value="天御" style="whiteSpace=wrap;html=1;rounded=1;fontSize=18;" vertex="1" parent="21coxDRDgsxf23kZ1eBv-1">
-          <mxGeometry x="326" y="636" width="120" height="60" as="geometry" />
+          <mxGeometry x="318" y="237" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wU61ol3yCMf8DzkOAZ5e-21" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 18px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;2、调用天御音频审核api&lt;br&gt;传入groupid、userid等TRTC的参数&lt;br&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="21coxDRDgsxf23kZ1eBv-1">
-          <mxGeometry x="76" y="573" width="295" height="71" as="geometry" />
-        </mxCell>
-        <mxCell id="wU61ol3yCMf8DzkOAZ5e-22" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 18px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;3、从COS下载音频文件&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="21coxDRDgsxf23kZ1eBv-1">
-          <mxGeometry x="443" y="600" width="201" height="36" as="geometry" />
+        <mxCell id="wU61ol3yCMf8DzkOAZ5e-21" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 18px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;2、调用天御音频审核api&lt;br&gt;&lt;br&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="21coxDRDgsxf23kZ1eBv-1">
+          <mxGeometry x="416" y="205" width="206" height="34" as="geometry" />
         </mxCell>
         <mxCell id="wU61ol3yCMf8DzkOAZ5e-23" value="客户服务" style="whiteSpace=wrap;html=1;rounded=1;fontSize=18;" vertex="1" parent="21coxDRDgsxf23kZ1eBv-1">
-          <mxGeometry x="326" y="776" width="120" height="60" as="geometry" />
+          <mxGeometry x="593" y="348" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wU61ol3yCMf8DzkOAZ5e-24" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 18px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;4、审核结果回调客户&lt;br&gt;带上groupid、userid等TRTC的参数&lt;br&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="21coxDRDgsxf23kZ1eBv-1">
-          <mxGeometry x="404" y="723" width="337" height="36" as="geometry" />
+        <mxCell id="wU61ol3yCMf8DzkOAZ5e-24" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 18px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;3、审核结果回调客户&lt;br&gt;带上groupid、userid等TRTC的参数&lt;br&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="21coxDRDgsxf23kZ1eBv-1">
+          <mxGeometry x="299" y="328" width="294" height="35" as="geometry" />
         </mxCell>
         <mxCell id="F41BLx68-mJaw4yvlTQs-0" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 24px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;trtc现在音频审核方案：&lt;br&gt;1、2是trtc发起&lt;br&gt;3、4是天御发起&lt;br&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="21coxDRDgsxf23kZ1eBv-1">
-          <mxGeometry x="-4" y="2" width="315" height="45" as="geometry" />
+          <mxGeometry x="13" y="-494" width="315" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="F41BLx68-mJaw4yvlTQs-1" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 24px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;新trtc音频审核方案：&lt;br&gt;1是trtc发起&lt;br&gt;2、3是COS发起&lt;br&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="21coxDRDgsxf23kZ1eBv-1">
+          <mxGeometry x="6" y="59" width="315" height="97" as="geometry" />
+        </mxCell>
+        <mxCell id="F41BLx68-mJaw4yvlTQs-2" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 18px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;1、上传音频到COS&lt;br&gt;传入groupid、userid等TRTC的参数&lt;br&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="21coxDRDgsxf23kZ1eBv-1">
+          <mxGeometry x="459" y="70" width="297" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="F41BLx68-mJaw4yvlTQs-4" value="&lt;div&gt;&lt;span style=&quot;font-size: 24px&quot;&gt;&lt;font face=&quot;helvetica&quot;&gt;新方案优势：&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 24px&quot;&gt;&lt;font face=&quot;helvetica&quot;&gt;1、对于trtc减少一次调用&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 24px&quot;&gt;&lt;font face=&quot;helvetica&quot;&gt;2、对于天御无需特殊处理trtc参数&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 24px&quot;&gt;&lt;font face=&quot;helvetica&quot;&gt;3、对于cos利用上传时自定义参数透传，也是标准化的流程&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=18;align=left;" vertex="1" parent="21coxDRDgsxf23kZ1eBv-1">
+          <mxGeometry x="62.000000000000014" y="451" width="656.67" height="133.33" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

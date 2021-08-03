@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-03T07:39:50.140Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="BqGQ1dXMQ8LCLMNKSgrM" version="14.8.5" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2021-08-03T07:44:48.273Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="405OhpvXXX01wnxJB5mz" version="14.8.5" type="github" pages="7">
   <diagram id="dbYi_EsOO7d35I-B2Z4p" name="通用审核流程图">
     <mxGraphModel dx="2048" dy="1108" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1017,7 +1017,38 @@
           <mxGeometry x="604" y="471" width="291" height="170" as="geometry" />
         </mxCell>
         <mxCell id="BqBIfCjE-lXSKGesVUCf-12" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 20px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;应用后台&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="0L3Cc9d1MkPxMbgBksXX-1">
-          <mxGeometry x="609" y="481" width="85" height="38" as="geometry" />
+          <mxGeometry x="707" y="534" width="85" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="BqBIfCjE-lXSKGesVUCf-13" value="" style="curved=1;endArrow=classic;html=1;fontSize=20;" edge="1" parent="0L3Cc9d1MkPxMbgBksXX-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="325" y="359" as="sourcePoint" />
+            <mxPoint x="609" y="352" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="410" y="371" />
+              <mxPoint x="535" y="371" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BqBIfCjE-lXSKGesVUCf-14" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 20px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;5、发送带图片/视频url的消息&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="0L3Cc9d1MkPxMbgBksXX-1">
+          <mxGeometry x="335" y="372" width="263" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="BqBIfCjE-lXSKGesVUCf-15" value="" style="endArrow=classic;html=1;fontSize=20;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="0L3Cc9d1MkPxMbgBksXX-1" source="BqBIfCjE-lXSKGesVUCf-0">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="385" y="388" as="sourcePoint" />
+            <mxPoint x="679" y="471" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BqBIfCjE-lXSKGesVUCf-16" value="" style="endArrow=classic;html=1;fontSize=20;" edge="1" parent="0L3Cc9d1MkPxMbgBksXX-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="826" y="469" as="sourcePoint" />
+            <mxPoint x="826" y="381" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BqBIfCjE-lXSKGesVUCf-17" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 20px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;6、发送前回调(1秒超时)&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="0L3Cc9d1MkPxMbgBksXX-1">
+          <mxGeometry x="545" y="424" width="226" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="BqBIfCjE-lXSKGesVUCf-18" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 20px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;7、处理方式&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="0L3Cc9d1MkPxMbgBksXX-1">
+          <mxGeometry x="836" y="417" width="119" height="38" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

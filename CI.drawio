@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-15T08:26:49.406Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="km26oWjyYpKodlPXdc0i" version="15.7.3" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2021-12-15T08:31:59.043Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="3oqs-GGmssxi4HZJlDA0" version="15.7.3" type="github" pages="7">
   <diagram id="dbYi_EsOO7d35I-B2Z4p" name="通用审核流程图">
     <mxGraphModel dx="2048" dy="1108" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -377,7 +377,7 @@
           <mxGeometry x="1409" y="2501" width="214" height="37" as="geometry" />
         </mxCell>
         <mxCell id="p480nV6rLNE_SQuTAzuX-37" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 20px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;审核效果不好，漏审、误杀&lt;br&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="XuZFi7v_uXKurtLlGYp6-1">
-          <mxGeometry x="1381" y="2762" width="246" height="37" as="geometry" />
+          <mxGeometry x="1370" y="2777" width="246" height="37" as="geometry" />
         </mxCell>
         <mxCell id="p480nV6rLNE_SQuTAzuX-38" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 20px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;文档不清楚，&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-size: 20px ; text-align: center&quot;&gt;产品不好用，功能不支持&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="XuZFi7v_uXKurtLlGYp6-1">
           <mxGeometry x="1411" y="2607" width="349" height="37" as="geometry" />
@@ -390,6 +390,15 @@
         </mxCell>
         <mxCell id="p480nV6rLNE_SQuTAzuX-41" value="找运营" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="XuZFi7v_uXKurtLlGYp6-1">
           <mxGeometry x="1630" y="2780" width="133" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p480nV6rLNE_SQuTAzuX-45" value="&lt;div style=&quot;text-align: center&quot;&gt;&lt;font face=&quot;helvetica&quot;&gt;阶段一：客户接入&lt;/font&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="XuZFi7v_uXKurtLlGYp6-1">
+          <mxGeometry x="17.4966259765625" y="2393" width="182" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="p480nV6rLNE_SQuTAzuX-46" value="更多场景，直播/TRTC" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;dashed=1;" vertex="1" parent="XuZFi7v_uXKurtLlGYp6-1">
+          <mxGeometry x="901" y="2907" width="236" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p480nV6rLNE_SQuTAzuX-47" value="&lt;div style=&quot;text-align: center&quot;&gt;&lt;span&gt;&lt;font face=&quot;helvetica&quot;&gt;关键难点：沟通客户业务流程，&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34;&quot;&gt;帮客户找到调用审核api的点&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="XuZFi7v_uXKurtLlGYp6-1">
+          <mxGeometry x="889" y="2436" width="285" height="65" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

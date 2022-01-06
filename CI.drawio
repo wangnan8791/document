@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-06T08:37:32.416Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="8PMw6q6Vu8-Bc7bUtFOd" version="16.1.0" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-01-06T08:50:55.803Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="WvaMvHNiSi0z_T7GB79X" version="16.1.0" type="github" pages="7">
   <diagram id="dbYi_EsOO7d35I-B2Z4p" name="通用审核流程图">
     <mxGraphModel dx="2048" dy="1108" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -911,9 +911,6 @@
         <mxCell id="R8BslKHfP9MhoLzpl_tF-2" value="旁路转码服务" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;" parent="21coxDRDgsxf23kZ1eBv-1" vertex="1">
           <mxGeometry x="1829" y="-345" width="143" height="83" as="geometry" />
         </mxCell>
-        <mxCell id="R8BslKHfP9MhoLzpl_tF-3" value="&lt;span&gt;云直播&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" parent="21coxDRDgsxf23kZ1eBv-1" vertex="1">
-          <mxGeometry x="1941" y="-461" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="R8BslKHfP9MhoLzpl_tF-4" value="" style="endArrow=classic;html=1;rounded=0;fontSize=18;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="21coxDRDgsxf23kZ1eBv-1" source="R8BslKHfP9MhoLzpl_tF-0" target="R8BslKHfP9MhoLzpl_tF-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1751" y="-86" as="sourcePoint" />
@@ -944,7 +941,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="R8BslKHfP9MhoLzpl_tF-13" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 18px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;rtmp/flv/hls&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=18;" parent="21coxDRDgsxf23kZ1eBv-1" vertex="1">
-          <mxGeometry x="2125" y="-398" width="92" height="34.33" as="geometry" />
+          <mxGeometry x="2173" y="-341" width="92" height="34.33" as="geometry" />
         </mxCell>
         <mxCell id="R8BslKHfP9MhoLzpl_tF-21" value="blued回调服务" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;" parent="21coxDRDgsxf23kZ1eBv-1" vertex="1">
           <mxGeometry x="2269" y="-110" width="120" height="80" as="geometry" />

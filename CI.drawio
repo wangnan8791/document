@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-23T04:08:43.168Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="qXT6fXhh4EaUOmkEcdEq" version="16.5.6" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-02-23T04:12:57.648Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="PLoBacLIVhxgNCtGFGa0" version="16.5.6" type="github" pages="8">
   <diagram id="dbYi_EsOO7d35I-B2Z4p" name="通用审核流程图">
     <mxGraphModel dx="2926" dy="1583" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1540,7 +1540,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="wFRay5vNR4Ibjb2uPqEE-0" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="-uuxsuIZAvlzm0xTK42Z-1">
-          <mxGeometry x="208" y="1244" width="211" height="147" as="geometry" />
+          <mxGeometry x="208" y="1244" width="197" height="147" as="geometry" />
         </mxCell>
         <mxCell id="wFRay5vNR4Ibjb2uPqEE-2" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 30px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;公网&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=30;" vertex="1" parent="-uuxsuIZAvlzm0xTK42Z-1">
           <mxGeometry x="280" y="1296" width="71" height="51" as="geometry" />
@@ -1575,11 +1575,24 @@
         <mxCell id="RCwXg8-GoQsECcNgPjOc-6" value="" style="verticalLabelPosition=bottom;sketch=0;html=1;fillColor=#282828;strokeColor=none;verticalAlign=top;pointerEvents=1;align=center;shape=mxgraph.cisco_safe.people_places_things_icons.icon9;fontSize=24;" vertex="1" parent="-uuxsuIZAvlzm0xTK42Z-1">
           <mxGeometry x="-208" y="1369" width="50" height="45" as="geometry" />
         </mxCell>
+        <mxCell id="LDZS-t0LtD4fIxTnqfwS-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=24;dashed=1;" edge="1" parent="-uuxsuIZAvlzm0xTK42Z-1" source="RCwXg8-GoQsECcNgPjOc-7" target="YojLbEZoB3L9U3SBfOhT-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-83" y="1679" />
+              <mxPoint x="555" y="1679" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="RCwXg8-GoQsECcNgPjOc-7" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 20px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;运营人审团队&lt;br&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="-uuxsuIZAvlzm0xTK42Z-1">
           <mxGeometry x="-150" y="1369" width="133" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="YojLbEZoB3L9U3SBfOhT-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=24;" edge="1" parent="-uuxsuIZAvlzm0xTK42Z-1" source="RCwXg8-GoQsECcNgPjOc-9" target="YojLbEZoB3L9U3SBfOhT-2">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="YojLbEZoB3L9U3SBfOhT-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=24;" edge="1" parent="-uuxsuIZAvlzm0xTK42Z-1" source="RCwXg8-GoQsECcNgPjOc-9" target="YojLbEZoB3L9U3SBfOhT-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="361" y="1460" />
+              <mxPoint x="361" y="1549" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="RCwXg8-GoQsECcNgPjOc-9" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-size: 20px&quot;&gt;下载机&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="-uuxsuIZAvlzm0xTK42Z-1">
           <mxGeometry x="482" y="1413.5" width="38" height="93" as="geometry" />
@@ -1599,14 +1612,17 @@
         <mxCell id="YojLbEZoB3L9U3SBfOhT-9" value="&lt;font face=&quot;helvetica&quot;&gt;&lt;span style=&quot;font-size: 20px&quot;&gt;审核配置&lt;br&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="-uuxsuIZAvlzm0xTK42Z-1">
           <mxGeometry x="721" y="1517" width="50" height="112" as="geometry" />
         </mxCell>
-        <mxCell id="YojLbEZoB3L9U3SBfOhT-12" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 20px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;1、发起审核&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="-uuxsuIZAvlzm0xTK42Z-1">
-          <mxGeometry x="131" y="1231" width="116" height="45" as="geometry" />
+        <mxCell id="YojLbEZoB3L9U3SBfOhT-12" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 20px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;1、发起审核&lt;br&gt;（多语言sdk、api）&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="-uuxsuIZAvlzm0xTK42Z-1">
+          <mxGeometry x="253" y="1188" width="205" height="45" as="geometry" />
         </mxCell>
         <mxCell id="LDZS-t0LtD4fIxTnqfwS-0" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 20px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;2、下载待审核资源（图片、音视频等）&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="-uuxsuIZAvlzm0xTK42Z-1">
-          <mxGeometry x="211" y="1563" width="195" height="45" as="geometry" />
+          <mxGeometry x="222" y="1558" width="195" height="45" as="geometry" />
         </mxCell>
         <mxCell id="LDZS-t0LtD4fIxTnqfwS-2" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 20px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;3、返回结果&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="-uuxsuIZAvlzm0xTK42Z-1">
-          <mxGeometry x="356" y="1375" width="116" height="45" as="geometry" />
+          <mxGeometry x="361" y="1358" width="116" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="LDZS-t0LtD4fIxTnqfwS-4" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 20px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;0、前期审核策略配置&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; 功能体验&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; 审核结果查看&lt;br&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=24;" vertex="1" parent="-uuxsuIZAvlzm0xTK42Z-1">
+          <mxGeometry x="88" y="1690" width="212" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

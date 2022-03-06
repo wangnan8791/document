@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-06T12:05:57.117Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="K9q3fbJv_o6IGk-Gru_a" version="16.6.6" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-03-06T12:06:17.858Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="wprOvxkHWRCHlJ6geYV4" version="16.6.6" type="github" pages="8">
   <diagram id="dbYi_EsOO7d35I-B2Z4p" name="通用审核流程图">
     <mxGraphModel dx="2048" dy="1108" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1340,7 +1340,7 @@
             <mxPoint x="805" y="1092" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Rc7d6JsT7WGOlJRI1A41-31" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 30px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;现象：&lt;br&gt;1、Pod1新建连接，源端口A，发送http POST&lt;br&gt;2、Pod2新建连接，源端口也是A，但是seq不同，被server丢弃&lt;br&gt;3、server返回http response，但是收不到ack，超时重发&lt;br&gt;4、Pod1等400ms超时（业务设置的超时400ms），发送FIN包，seq显示client没有收到3中的http response&lt;br&gt;5、server发送FIN包&lt;br&gt;6、收到client的两个RST包&lt;br&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1h0_lMZquy7XTfYPO15R-1">
+        <mxCell id="Rc7d6JsT7WGOlJRI1A41-31" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 30px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;抓包观察到的现象：&lt;br&gt;1、Pod1新建连接，源端口A，发送http POST&lt;br&gt;2、Pod2新建连接，源端口也是A，但是seq不同，被server丢弃&lt;br&gt;3、server返回http response，但是收不到ack，超时重发&lt;br&gt;4、Pod1等400ms超时（业务设置的超时400ms），发送FIN包，seq显示client没有收到3中的http response&lt;br&gt;5、server发送FIN包&lt;br&gt;6、收到client的两个RST包&lt;br&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1h0_lMZquy7XTfYPO15R-1">
           <mxGeometry x="428" y="1348" width="886.39" height="315" as="geometry" />
         </mxCell>
       </root>

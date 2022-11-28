@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-28T09:42:06.660Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="hRnMo-nbSTUzVRJxenu4" version="18.2.0" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2022-11-28T09:42:37.059Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="3uItFEEIUYuBVDiovjV9" version="18.2.0" type="github" pages="10">
   <diagram id="dbYi_EsOO7d35I-B2Z4p" name="通用审核流程图">
     <mxGraphModel dx="2556" dy="1284" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1958,6 +1958,49 @@
         </mxCell>
         <mxCell id="3Ru2ymdFSLC-S-qgauvQ-1" value="内容审核" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="691" y="975" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-xq9MylGzI67OAqT9yMz-1" value="&lt;font face=&quot;helvetica&quot;&gt;&lt;span style=&quot;font-size: 20px&quot;&gt;客户后端server&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="173.4" y="1564" width="146" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-xq9MylGzI67OAqT9yMz-2" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 30px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;腾讯云&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="700" y="1206" width="96" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="-xq9MylGzI67OAqT9yMz-3" value="COS存储" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="695" y="1369" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="-xq9MylGzI67OAqT9yMz-4" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;quot;helvetica&amp;quot; ; font-size: 30px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;腾讯云方案二：&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="16" y="1212" width="286" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="-xq9MylGzI67OAqT9yMz-5" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: helvetica; font-size: 20px; font-style: normal; font-weight: 400; letter-spacing: normal; text-indent: 0px; text-transform: none; word-spacing: 0px; background-color: rgb(248, 249, 250); display: inline; float: none;&quot;&gt;1 上传文件(30000qps)+审核（100qps）&amp;nbsp; 实际qps取较小值&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=20;align=center;" vertex="1" parent="1">
+          <mxGeometry x="291" y="1339" width="370" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="-xq9MylGzI67OAqT9yMz-6" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;fontSize=20;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="-xq9MylGzI67OAqT9yMz-3" target="-xq9MylGzI67OAqT9yMz-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="856" y="1485" as="sourcePoint" />
+            <mxPoint x="852" y="1526" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="806" y="1464" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-xq9MylGzI67OAqT9yMz-7" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;fontSize=20;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-xq9MylGzI67OAqT9yMz-9" target="-xq9MylGzI67OAqT9yMz-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="328" y="1395" as="sourcePoint" />
+            <mxPoint x="705" y="1424" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-xq9MylGzI67OAqT9yMz-8" value="&lt;span style=&quot;font-family: &amp;quot;helvetica&amp;quot; ; font-size: 20px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;2 外网下载文件并审核&lt;br&gt;&lt;font color=&quot;#009900&quot;&gt;内网流量，无外网费用&lt;/font&gt;&lt;br&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="767" y="1468" width="206" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="-xq9MylGzI67OAqT9yMz-9" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.chrome" vertex="1" parent="1">
+          <mxGeometry x="209" y="1361" width="74.8" height="75.4" as="geometry" />
+        </mxCell>
+        <mxCell id="-xq9MylGzI67OAqT9yMz-10" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;quot;helvetica&amp;quot; ; font-size: 20px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;3 返回审核结果&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="401" y="1413" width="139" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="-xq9MylGzI67OAqT9yMz-11" value="内容审核" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="695" y="1564" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

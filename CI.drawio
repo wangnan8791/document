@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-28T08:43:27.449Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="CCwn_JXq-jaqBw9mO2Sv" version="18.2.0" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2022-11-28T09:10:36.642Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="QSFOF_FeGX5uMJd_kD1-" version="18.2.0" type="github" pages="10">
   <diagram id="dbYi_EsOO7d35I-B2Z4p" name="通用审核流程图">
     <mxGraphModel dx="2556" dy="1284" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1829,10 +1829,75 @@
     </mxGraphModel>
   </diagram>
   <diagram id="-xehh8UgzIwkldPLrtW8" name="大头兄弟审核">
-    <mxGraphModel dx="1278" dy="642" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2105" dy="642" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="xUUKhlO2IYIZJqYqYbYQ-1" value="&lt;font face=&quot;helvetica&quot;&gt;&lt;span style=&quot;font-size: 20px&quot;&gt;客户后端server&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-4.6" y="399" width="146" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xUUKhlO2IYIZJqYqYbYQ-2" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;#34;helvetica&amp;#34; ; font-size: 30px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;腾讯云&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="522" y="41" width="96" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="xUUKhlO2IYIZJqYqYbYQ-3" value="" style="endArrow=none;dashed=1;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="497" y="549" as="sourcePoint" />
+            <mxPoint x="497" y="61" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xUUKhlO2IYIZJqYqYbYQ-4" value="COS存储" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="517" y="204" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xUUKhlO2IYIZJqYqYbYQ-5" value="友商" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="323" y="399" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xUUKhlO2IYIZJqYqYbYQ-6" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;fontSize=20;" edge="1" parent="1" source="xUUKhlO2IYIZJqYqYbYQ-1" target="xUUKhlO2IYIZJqYqYbYQ-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160.99999999999994" y="611.02" as="sourcePoint" />
+            <mxPoint x="634.96" y="608" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="278" y="428" />
+              <mxPoint x="367" y="448" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xUUKhlO2IYIZJqYqYbYQ-7" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;quot;helvetica&amp;quot; ; font-size: 30px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;友商的方案：&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="4" y="60" width="286" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="xUUKhlO2IYIZJqYqYbYQ-8" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;quot;helvetica&amp;quot; ; font-size: 20px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;1 上传文件&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="209" y="196" width="205" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="xUUKhlO2IYIZJqYqYbYQ-9" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;quot;helvetica&amp;quot; ; font-size: 20px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;3 送审cos外网url&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="148" y="443" width="173" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="xUUKhlO2IYIZJqYqYbYQ-10" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;fontSize=20;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="xUUKhlO2IYIZJqYqYbYQ-5" target="xUUKhlO2IYIZJqYqYbYQ-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="123" y="447" as="sourcePoint" />
+            <mxPoint x="587" y="447" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="529" y="428" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xUUKhlO2IYIZJqYqYbYQ-11" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;fontSize=20;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xUUKhlO2IYIZJqYqYbYQ-13" target="xUUKhlO2IYIZJqYqYbYQ-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="230" as="sourcePoint" />
+            <mxPoint x="527" y="259" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xUUKhlO2IYIZJqYqYbYQ-12" value="&lt;span style=&quot;font-family: &amp;#34;helvetica&amp;#34; ; font-size: 20px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;3 外网下载文件并审核&lt;br&gt;&lt;font color=&quot;#ff3333&quot;&gt;产生外网流量&lt;/font&gt;&lt;br&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="504" y="440" width="206" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="xUUKhlO2IYIZJqYqYbYQ-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xUUKhlO2IYIZJqYqYbYQ-13" target="xUUKhlO2IYIZJqYqYbYQ-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xUUKhlO2IYIZJqYqYbYQ-13" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.chrome" vertex="1" parent="1">
+          <mxGeometry x="31" y="196" width="74.8" height="75.4" as="geometry" />
+        </mxCell>
+        <mxCell id="xUUKhlO2IYIZJqYqYbYQ-16" value="&lt;span style=&quot;color: rgb(0 , 0 , 0) ; font-family: &amp;quot;helvetica&amp;quot; ; font-size: 20px ; font-style: normal ; font-weight: 400 ; letter-spacing: normal ; text-align: center ; text-indent: 0px ; text-transform: none ; word-spacing: 0px ; background-color: rgb(248 , 249 , 250) ; display: inline ; float: none&quot;&gt;2 通知后端上传成功&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="69" y="311" width="205" height="38" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

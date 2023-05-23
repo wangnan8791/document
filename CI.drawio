@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-23T07:16:42.991Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="BcAjovxOEjZxybVw0WRu" version="21.2.9" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2023-05-23T07:22:37.707Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="WIeXMYXjXdgPbjqAzMzC" version="21.2.9" type="github" pages="10">
   <diagram id="dbYi_EsOO7d35I-B2Z4p" name="通用审核流程图">
     <mxGraphModel dx="2074" dy="1124" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2244,8 +2244,8 @@
         <mxCell id="6YWLL71d5J5dWwZ2Owoi-24" value="黄暴政断流" style="whiteSpace=wrap;html=1;fontSize=18;rounded=1;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
           <mxGeometry x="844" y="-643" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="6YWLL71d5J5dWwZ2Owoi-25" value="COS上视频" style="whiteSpace=wrap;html=1;fontSize=18;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="1491" y="-774" width="120" height="60" as="geometry" />
+        <mxCell id="6YWLL71d5J5dWwZ2Owoi-25" value="COS上离线视频" style="whiteSpace=wrap;html=1;fontSize=18;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1474.5" y="-774" width="139" height="60" as="geometry" />
         </mxCell>
         <mxCell id="6YWLL71d5J5dWwZ2Owoi-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="6YWLL71d5J5dWwZ2Owoi-19" target="6YWLL71d5J5dWwZ2Owoi-27">
           <mxGeometry relative="1" as="geometry">
